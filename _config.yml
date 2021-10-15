@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zhiyuan's blog CHANGE
+title: Zhiyuan's blog
 email: zhiyuanyao@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This is the website about Zhiyuan and Zhiyuan's projects.
@@ -27,6 +27,13 @@ url: "https://zyykyy.github.io" # the base hostname & protocol for your site, e.
 twitter_username: zhiyuangis
 github_username:  zyykyy
 
+# check from the footer.html file that author exsits
+author: Zhiyuan Yao
+
+# add a copyright
+copyright: "Zhiyuan Yao & Weilong Niu"
+
+title-logo: /images/tree_headshot.jpg
 # Build settings
 # remove the minima theme as it is now a regular theme
 # theme: minima
