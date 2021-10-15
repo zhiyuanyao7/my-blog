@@ -28,7 +28,8 @@ twitter_username: zhiyuangis
 github_username:  zyykyy
 
 # Build settings
-theme: minima
+# remove the minima theme as it is now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
