@@ -31,9 +31,9 @@ github_username:  zyykyy
 author: Zhiyuan Yao
 
 # add a copyright
-copyright: "Zhiyuan Yao & Weilong Niu"
+copyright: "Zhiyuan Yao"
 
-title-logo: /images/tree_headshot.jpg
+# title-logo: '/images/tree_headshot.jpg'
 # Build settings
 # remove the minima theme as it is now a regular theme
 # theme: minima
